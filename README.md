@@ -4,12 +4,12 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 
 ## 📸 Preview
 
-### 🏆 Winning State
+### 🏆 Winning State:👇
 
 <img width="1902" height="912" alt="Image" src="https://github.com/user-attachments/assets/53dd63c8-55f2-4012-80ef-7a0285016193" />
 
 
-### 🤝 Draw State
+### 🤝 Draw State:👇
 
 <img width="1901" height="907" alt="Image" src="https://github.com/user-attachments/assets/476047d7-df3d-4707-8da7-ab4fddf1706e" />
 
@@ -62,9 +62,9 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 
 ---
 
+⭐ If you like this project, don't forget to **Star** the repository!
+
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
 
-
-⭐ If you like this project, don't forget to **Star** the repository!
